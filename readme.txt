@@ -2,6 +2,7 @@ this a readme file.
 this is  a readme file .
 it is useful.
 
+this is a clone .
 
 newtext to test.
 
