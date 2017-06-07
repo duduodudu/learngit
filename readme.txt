@@ -25,5 +25,5 @@ push test
 
 分支 
 分支练习 
-text new something 
+text new something && simple .
 
