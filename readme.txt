@@ -8,3 +8,5 @@ newtext to test.
 hello world!
 
 today , my task is to learn git .
+
+text 暂缓区 1 
