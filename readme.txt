@@ -6,3 +6,5 @@ it is useful.
 newtext to test.
 
 hello world!
+
+today , my task is to learn git .
