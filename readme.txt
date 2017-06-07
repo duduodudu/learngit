@@ -24,4 +24,6 @@ vi 命令进入编辑模式
 push test 
 
 分支 
+分支练习 
+text new something 
 
