@@ -10,3 +10,14 @@ hello world!
 today , my task is to learn git .
 
 text 暂缓区 1 
+
+text 暂缓区 2 
+
+texjdt 暂缓区 3 
+vie
+
+vi 命令进入编辑模式 
+:wq 退出并保存
+:q! 不保存退出
+
+
