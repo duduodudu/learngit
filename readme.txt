@@ -18,9 +18,9 @@ vie
 
 vi 命令进入编辑模式 
 :wq 退出并保存
-:q! 不保存退出
+:q! 不保存退出 d  simple 
 
-
+this is my  new  text .
 push test 
 
 分支 
